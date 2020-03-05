@@ -88,8 +88,6 @@ public class VolleyUtils {
         return false;
     }
 
-
-
         //创建接口
     public interface Callack{
         void saccess(String str);
